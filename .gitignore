@@ -645,3 +645,6 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/vim,linux,zsh,git,c,c++,cmake,clion+all,visualstudio,visualstudiocode,vscode
 n
+
+# VisualStudioCode
+**/.vscode
